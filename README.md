@@ -12,8 +12,8 @@
   <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-Java" height="50" width="40" src="https://user-images.githubusercontent.com/88936210/197610701-13a0d2d2-f79b-4e7f-954a-451d4bc738e9.png">
-    <img align="center" alt="Rafa-C" height="50" width="40" src="https://user-images.githubusercontent.com/88936210/197610689-a270f4ff-7540-4168-80a2-3bb7690872ff.png">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88936210/197648645-c3bf0dee-936a-48d3-997c-4353a37d60ac.gif)">
+  <img align="center" alt="Rafa-C" height="50" width="40" src="https://user-images.githubusercontent.com/88936210/197610689-a270f4ff-7540-4168-80a2-3bb7690872ff.png">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88936210/197648645-c3bf0dee-936a-48d3-997c-4353a37d60ac.gif">
   
 </div>
   
