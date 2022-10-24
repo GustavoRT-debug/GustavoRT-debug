@@ -1,4 +1,4 @@
-### Oi sou Gustavo Ramos 👋
+### Oi sou Gustavo Torres 👋
 
 <div align="center">
   <a href="https://github.com/GustavoRT-debug">
