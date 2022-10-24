@@ -9,8 +9,10 @@
  <div style="display: inline_block"><br>
 
  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Rafa-Java" height="50" width="40" src="https://user-images.githubusercontent.com/88936210/197610701-13a0d2d2-f79b-4e7f-954a-451d4bc738e9.png">
+    <img align="center" alt="Rafa-C" height="50" width="40" src="https://user-images.githubusercontent.com/88936210/197610689-a270f4ff-7540-4168-80a2-3bb7690872ff.png">
   
 </div>
   
