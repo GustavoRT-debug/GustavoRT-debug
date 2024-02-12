@@ -13,17 +13,13 @@ Bem-vindo ao meu perfil do GitHub! Aqui está um pouco sobre mim:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
-## 🚀 Projetos em Destaque
+### Oi sou Gustavo Torres 👋
 
-### Projeto 1: Calculadora em Python
-Descrição: Uma simples calculadora feita em Python usando Tkinter.
-![Calculadora](images/calculadora.png)
-[Repositório](https://github.com/GustavoRT-debug/calculadora-python)
-
-### Projeto 2: Jogo da Forca em C#
-Descrição: Um jogo da forca em C# com interface gráfica.
-![Jogo da Forca](images/jogo-da-forca.png)
-[Repositório](https://github.com/GustavoRT-debug/jogo-da-forca-csharp)
+<div align="center">
+  <a href="https://github.com/GustavoRT-debug">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoRT-debug&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRT-debug&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 📫 Vamos nos conectar!
 
