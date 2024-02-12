@@ -13,7 +13,7 @@ Sou estagiário na empresa BitTrainers, apaixonado por programação e tecnologi
 ## 🏢 BitTrainers
 
 <div align="center">
-  <img src="https://play.google.com/store/apps/details?id=com.bittrainers&hl=pt_BR" alt="Logo da BitTrainers" width="200px"/>
+  <img src="https://www.elo.net.br/wp-content/uploads/2021/05/bittrainers_web-01.png" alt="Logo da BitTrainers" width="200px"/>
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
