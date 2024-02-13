@@ -41,7 +41,7 @@
 <!-- Jogo da Cobrinha -->
 <div align="center">
   <h2>Jogo da Cobrinha 🐍</h2>
-  <img src="https://github.com/GustavoRT-debug/Jogo.git" alt="Jogo da Cobrinha" width="300px"/>
+ ![snake gif](https://github.com/GustavoRT-debug/GustavoRT-debug/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
