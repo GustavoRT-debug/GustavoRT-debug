@@ -13,11 +13,13 @@
 
 ### 👨‍💼 Sou estagiário na BitTrainers, dedicado a aprender e contribuir!
 
+### 👨‍🎓 Atualmente estudante e aspirante a desenvolvedor!
+
 ### Um pouco sobre mim:
 
 - 🚀 Apaixonado por tecnologia e programação.
-- 🎓 Estudante de Ciência da Computação.
-- 💻 Buscando sempre aprimorar minhas habilidades em desenvolvimento de software.
+- 🎓 Estudante de Ciência da Computação, buscando constantemente novos conhecimentos.
+- 💼 Estagiário na BitTrainers, onde colaboro em projetos emocionantes.
 
 ## 🛠️ Ferramentas e Tecnologias:
 
@@ -36,7 +38,11 @@
 
 ## 😄 Vamos codar juntos e se divertir!  
 
+<!-- Jogo da Cobrinha -->
+<div align="center">
+  <h2>Jogo da Cobrinha 🐍</h2>
+  <img src="https://github.com/GustavoRT-debug/jogo-da-cobrinha-python/blob/main/cobrinha.gif" alt="Jogo da Cobrinha" width="300px"/>
+</div>
 
-    
 
 
