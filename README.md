@@ -41,7 +41,7 @@
 <!-- Jogo da Cobrinha -->
 <div align="center">
   <h2>Jogo da Cobrinha 🐍</h2>
-  <img src="https://github.com/GustavoRT-debug/jogo-da-cobrinha-python/blob/main/cobrinha.gif" alt="Jogo da Cobrinha" width="300px"/>
+  <img src="https://github.com/GustavoRT-debug/Jogo.git" alt="Jogo da Cobrinha" width="300px"/>
 </div>
 
 
