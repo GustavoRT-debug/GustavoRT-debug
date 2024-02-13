@@ -11,6 +11,8 @@
   <img src="https://www.elo.net.br/wp-content/uploads/2021/05/bittrainers_web-01.png" alt="Logo da BitTrainers" width="200px"/>
 </div>
 
+### 👨‍💼 Sou estagiário na BitTrainers, aprontando muitas coisas legais!
+
 ### Um pouquinho sobre mim:
 
 - 🚀 Louco por código e tecnologia.
@@ -43,6 +45,7 @@ Descrição: Uma calculadora com funcionalidades avançadas feita em C#.
 - [LinkedIn](https://www.linkedin.com/in/gustavo-ramos-lages-torres-b9b700170/)
 
 ## 😄 É isso aí, bora codar e se divertir!
+
 
 
 
