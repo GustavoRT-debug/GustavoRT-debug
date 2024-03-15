@@ -18,7 +18,7 @@
 ### Um pouco sobre mim:
 
 - 🚀 Apaixonado por tecnologia e programação.
-- 🎓 Estudante de Ciência da Computação, buscando constantemente novos conhecimentos.
+- 🎓 Estudante de Eng. da Computação, buscando constantemente novos conhecimentos.
 - 💼 Estagiário na BitTrainers, onde colaboro em projetos emocionantes.
 
 ## 🛠️ Ferramentas e Tecnologias:
