@@ -38,10 +38,8 @@
 
 ## 😄 Vamos codar juntos e se divertir!  
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
 <p align="center">
-  <img src="https://github.com/redfoxghs/GustavoRT-debug/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/GustavoRT-debug/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
