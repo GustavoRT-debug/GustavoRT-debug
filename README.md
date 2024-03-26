@@ -39,7 +39,7 @@
 ## 😄 Vamos codar juntos e se divertir!  
 <div align="center">
 
-![snake gif](https://github.com/GustavoRT-debug/GustavoRT-debug/output/github-contribution-grid-snake.svg) 
+![snake gif](https://github.com/GustavoRT-debug/GustavoRT-debug/raw/output/github-contribution-grid-snake.svg) 
 
 
 
