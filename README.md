@@ -39,7 +39,7 @@
 ## 😄 Vamos codar juntos e se divertir!  
 <div align="center">
 
-Generate a [gif](https://github.com/GustavoRT-debug/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/GustavoRT-debug/snk/raw/output/github-contribution-grid-snake.svg) image.
+![snake gif](https://github.com/GustavoRT-debug/GustavoRT-debug/blob/output/github-contribution-grid-snake.svg) or ![snake svg](https://github.com/GustavoRT-debug/GustavoRT-debug/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 
