@@ -37,7 +37,11 @@
 - [LinkedIn](https://www.linkedin.com/in/gustavo-ramos-lages-torres-b9b700170/)
 
 ## 😄 Vamos codar juntos e se divertir!  
-![snake gif](https://github.com/GustavoRT-debug/GustavoRT-debug/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoRT-debug/GustavoRT-debug/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoRT-debug/GustavoRT-debug/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoRT-debug/GustavoRT-debug/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
