@@ -4,7 +4,8 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F5FF&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack+em+formação;Estagiário+na+BitTrainers;Estudante+de+Engenharia+da+Computação;Apaixonado+por+tecnologia+e+inovação!)](https://git.io/typing-svg)
   
-  <img src="https://www.elo.net.br/wp-content/uploads/2021/05/bittrainers_web-01.png" alt="Logo da BitTrainers" width="150px"/>
+  <img src="https://img.shields.io/badge/BitTrainers-Dev_Team-blue?style=for-the-badge&logo=rocket" alt="BitTrainers Badge"/>
+
   
 </div>
 
@@ -147,7 +148,7 @@ const gustavo = {
   
   ### 💙 Obrigado pela visita!
   
-  ![Visitor Count](https://profile-counter.glitch.me/GustavoRT-debug/count.svg)
+ ![Visitor Count](https://komarev.com/ghpvc/?username=GustavoRT-debug&label=Visitantes&color=0e75b6&style=flat)
   
   ⭐ **Se gostou do meu trabalho, deixe uma estrela!** ⭐
   
