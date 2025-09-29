@@ -97,7 +97,7 @@ const gustavo = {
 
 ---
 
-## 🎯 Objetivos 2024
+## 🎯 Objetivos 2025
 
 - [ ] 🚀 Contribuir para projetos open source
 - [ ] 📚 Aprender novas tecnologias (React Native, AWS)
@@ -149,8 +149,6 @@ const gustavo = {
   ### 💙 Obrigado pela visita!
   
  ![Visitor Count](https://komarev.com/ghpvc/?username=GustavoRT-debug&label=Visitantes&color=0e75b6&style=flat)
-  
-  ⭐ **Se gostou do meu trabalho, deixe uma estrela!** ⭐
-  
+   
 </div>
 
